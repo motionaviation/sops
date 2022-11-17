@@ -13,7 +13,7 @@ This page lists some of the less-known aircraft callsigns that are routinely use
 | BOE  | Boeing             | RNZAF    |
 | KIW  | Kiwi               | RNZAF    |
 | KRC  | Kiwi Rescue        | RNZAF    |
-| POS  | Poseidon           | RNZAF    |
+| PDN  | Poseidon           | RNZAF    |
 | ORI  | Orion              | RNZAF    |
 | HER  | Hercules / Herc    | RNZAF    |
 | CDT  | Cadet              | RNZAF    |
