@@ -1,7 +1,6 @@
 ---
 title: Aircraft Callsigns
 ---
-
 --8<-- "includes/abbreviations.md"
 
 This page lists some of the less-known aircraft callsigns that are routinely used within the New Zealand FIR. This is not an exhaustive list, listing only New Zealand specific military or virtual airline callsigns.
@@ -15,12 +14,12 @@ This page lists some of the less-known aircraft callsigns that are routinely use
 | KRC  | Kiwi Rescue        | RNZAF    |
 | PDN  | Poseidon           | RNZAF    |
 | ORI  | Orion              | RNZAF    |
-| HER  | Hercules / Herc    | RNZAF    |
+| HER  | Herc               | RNZAF    |
 | CDT  | Cadet              | RNZAF    |
 | TEX  | Texan              | RNZAF    |
 | KAH  | Kahu               | RNZAF    |
 | FAL  | Falcon             | RNZAF    |
-| KNG  | King               | RNZAF    |
+| KNG  | King Air           | RNZAF    |
 | STG  | Stirling           | RNZAF    |
 | MAK  | Mako               | RNZAF    |
 | WRR  | Warrior            | RNZAF    |
